@@ -704,10 +704,6 @@
           "airways": "V32 EPDOS L642",
           "allowed_fls": ["280", "310", "320", "350", "360", "390", "400"],
           "FLAS": "FL280, FL310, FL320, FL350, FL360, FL390, FL400"
-        },
-        {
-          "destinations": ["VHHH"],
-          "min_fl": 60
         }
       ]
     }
