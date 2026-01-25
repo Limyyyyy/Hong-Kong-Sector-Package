@@ -12,7 +12,7 @@
 	<Rates url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/rate.txt" />
 	<Taxizones url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/taxizones.txt" />
 	<Ctot url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/ctot.txt" />
-	<DefaultTaxiTime minutes="10" />
+	<DefaultTaxiTime minutes="15" />
 	<RefreshTime seconds="10" />
 	<Debug mode="false" />
 	<FlowRestrictions url="" />
