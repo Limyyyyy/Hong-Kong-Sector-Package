@@ -1,10 +1,10 @@
-AIRAC cycle    : 2512
+AIRAC cycle    : 2601
 Version        : 1
-Valid (from/to): 27/NOV/2025 - 25/DEC/2025
+Valid (from/to): 22/JAN/2026 - 19/FEB/2026
 
 Forum          : http://forum.navigraph.com
 
-Data provided by Navigraph - www.navigraph.com - Source data copyright (c) 2025 Jeppesen
+Data provided by Navigraph - www.navigraph.com - Source data copyright (c) 2026 Jeppesen
 This data may be used for ground based recreational computer game
 simulation software only, and may not be recompiled, interpreted,
 or distributed for any purpose without the written consent of Navigraph.
@@ -15,4 +15,4 @@ This file is intended for Navigraph support use only and may not be changed, rea
 further processed by any 3rd party developer/addon.
 
 Parser-Version : DFD v1.0 25.1117 (c) Richard Stefan
-Files parsed on: 17/11/2025
+Files parsed on: 12/01/2026
